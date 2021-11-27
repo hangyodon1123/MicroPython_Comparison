@@ -15,7 +15,7 @@ left,lt | left | left | left | left,lt
 goto,setpos,setposition | goto | goto | goto | goto,setpos,setposition
 setx | | | | setx
 sety | | | | sety
-setheading,seth | | setheading | setheading | setheading,seth
+setheading,seth | setheading | setheading | setheading | setheading,seth
 home | home | home | | home
 circle | circle | circle | circle | circle
 dot | dot | dot
@@ -35,7 +35,6 @@ xcor | | xcor | | xcor
 ycor | | ycor | | ycor
 heading | heading | heading | heading | heading
 distance | | | | distance
-((non)) | setheading
 
 ### turtle motion [setting and measurement]
 function | TI ce_turtl | TI turtle | Numworks | Casio
